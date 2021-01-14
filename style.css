@@ -1,0 +1,60 @@
+.navbar-brand-img{
+    width: 25rem;
+    padding-left: 80px;
+}
+.card-group-img{
+    width: 28rem;
+}
+.nav-posision{
+    padding-right: 20px;
+}
+.madill-sec{
+    width: 1250px;
+    padding-left: 120px;
+
+}.img-sige{
+    height: 250px;
+    width: 300px;
+    padding-left: 30px;
+}
+.shadow{background-color: hsl(0, 24%, 96%);}
+.half-width{
+    width: 20%;
+    float: left;
+    margin-left: 6%
+    }
+  .halg-img{
+      width: 80px;
+      height: 80px;
+  }
+.contain{
+    width: 700px;
+    height: 150px;
+}
+.contain2{
+    width: 100%;
+    height: 100%;
+}
+.half-2{width: 50%;
+    float: right;
+    margin-right;: 6%
+
+}
+.half-width-2{
+    width: 50%;
+    float: right;
+    margin-right: 5%;}
+    .shopping{
+        width: 50$;
+        height: 50%;
+    }
+    .button1{
+        float: right;
+        width: 150px;
+        height: 50px;
+        
+    }
+    .button2{
+        width: 50%;
+       float: left;
+    }
